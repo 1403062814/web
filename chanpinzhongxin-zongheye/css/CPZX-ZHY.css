@@ -1,0 +1,332 @@
+*{
+	padding: 0;
+	margin: 0;
+	margin: 0 auto;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*header 头部*/
+.header{
+	height: 153px;
+	width:100%;
+}	
+.logo{
+	height: 103px;
+	float: left;
+}
+.logo img{
+	margin-top: 32px;
+	margin-left: 345px;
+}
+.word-1{
+	margin-left: 190px;
+	margin-top: 54px;
+	float:left;
+}
+.word-1 p{
+	color: #0b4199;
+	font-size: 18px;
+}
+.word-2{
+	margin-left: 40px;
+	margin-top: 56px;
+	float: left;
+}
+.word-2 p{
+	color: #7d7d7d;
+	font-size: 14px;
+}
+.word-3{
+	margin-left: 20px;
+	margin-top: 56px;
+	float:left;
+}
+.word-3 p{
+	color:#eb0212;
+	font-size:14px;
+}
+.word-4{
+	margin-left: 20px;
+	margin-top: 56px;
+	float:left;
+}
+.word-4 p{
+	color: #7d7d7d;
+	font-size:14px;
+}
+.box-header{
+	margin-left:300px;
+	height: 65px;
+}
+.box-header li a{
+	float:left;
+	font-size:17px;
+}
+.one-1{
+	margin-left:50px;
+	color:#7d7d7d;
+}
+.one-2{
+	margin-left:50px ;
+	color:#fff;
+	background: blue;
+}
+.one-3{
+	margin-left:44px;
+	color:#7d7d7d;
+}
+.two{
+	margin-left:44px;
+	color:#7d7d7d;
+}
+.three{
+	margin-left:90px;
+}
+/*middle 中间*/
+.middle{
+	background: #f9f9f9;
+}
+.middle-1{
+	background: #f9f9f9;
+	height:500px;
+	padding-left:350px;
+}
+.middle-1 div{
+	float:left;
+	margin-right:45px;
+}
+.middle-1 div ul p{
+	text-align:center;
+	color:#6b89bd;
+	font-size:18px;
+	padding-bottom:15px;
+}
+.middle-1 div ul li{
+	color:#6b89bd;
+	font-size:15px;
+	padding-bottom:15px;
+}
+.zhuye{
+	margin-left:345px;
+	padding-top:20px;
+}
+.zhuye-1{
+	color:#7d7d7d;
+	font-size:18px;
+}
+.zhongxin-1{
+	margin-left:345px;
+	margin-right:351px;
+	margin-top:64px;
+}
+.zhongxin-2{
+	margin-left:345px;
+
+	padding-top:30px;
+}
+.zhongxin-3{
+	margin-left:345px;
+	margin-right:351px;
+	padding-top:35px;
+}
+.zhongxin ul li{
+	padding-bottom:20px;
+}
+.ziti-1{
+	color:#000;
+	font-size:25px;
+}
+.ziti-2{
+	color:#6b89bd;
+	font-size:20px;
+}
+.ziti-3{
+	color:#7d7d7d;
+	font-size:16px;
+	padding-top:10px;
+}
+/*tail 尾部*/
+.tail{
+	height:60px;
+	width:100%;
+	background:#4b01f3;
+}
+.phone{
+	margin-left:345px;
+	margin-top:16px;
+}
+.phone img{
+	float:left;
+	margin-top:16px;
+}
+.phone p{
+	float:left;
+	margin-top:20px;
+	color:#ffffff;
+	font-size:18px;
+}
+.footer-logo{
+	margin-top:16px;
+}
+.footer-logo img{
+	float:left;
+	margin-left:125px;
+	margin-top:16px;
+}
+.footer-logo p{
+	float:left;
+	margin-top:20px;
+	color:#ffffff;
+	font-size:18px;
+}
+.lianxi{
+}
+.lianxi p{
+	float:left;
+	margin-top:20px;
+	margin-left:490px;
+	color:#ffffff;
+	font-size:18px;
+}
+.lianxi img{
+	margin-top:12px;
+}
+.dibu{
+	height:300px;
+	width:100%;
+	background-color:#454545;
+}
+.guanyu{
+	margin-left:345px;
+	padding-top:65px;
+	float:left;
+}
+.liguanyu{
+	padding-top:15px;
+}
+.guanyu ul a{
+	font-size:18px;
+	color:#ffffff;
+}
+.guanyu ul li a{
+	font-size:14px;
+	color:#ffffff;
+}
+.caigou{
+	margin-left:70px;
+	padding-top:65px;
+	float:left;
+}
+.licaigou{
+	padding-top:15px;
+}
+.caigou ul a{
+	font-size:18px;
+	color:#ffffff;
+}
+.caigou ul li a{
+	font-size:14px;
+	color:#ffffff;
+}
+.jishu{
+	margin-left:70px;
+	padding-top:65px;
+	float:left;
+}
+.lijishu{
+	padding-top:15px;
+}
+.jishu ul a{
+	font-size:18px;
+	color:#ffffff;
+}
+.jishu ul li a{
+	font-size:14px;
+	color:#ffffff;
+}
+.jiliang{
+	margin-left:70px;
+	padding-top:65px;
+	float:left;
+}
+.lijiliang{
+	padding-top:15px;
+}
+.jiliang ul a{
+	font-size:18px;
+	color:#ffffff;
+}
+.jiliang ul li a{
+	font-size:14px;
+	color:#ffffff;
+}
+.gongsi{
+	margin-left:70px;
+	padding-top:65px;
+	float:left;
+}
+.ligongsi{
+	padding-top:15px;
+}
+.gongsi ul a{
+	font-size:18px;
+	color:#ffffff;
+}
+.gongsi ul li a{
+	font-size:14px;
+	color:#ffffff;
+}
+.dibujulu{
+	margin-bottom:16px;
+}
+.xiantiao img{
+	margin-left:50px;
+	margin-top:70px;
+	float:left;
+}
+.bottom_logo ul li img{
+	margin-top:39px;
+	float:left;
+}
+.bottom_logo ul li{
+	margin-right:200px;
+	margin-left:75px;
+	float:left;
+	color:#fff;
+	padding-top: 15px;
+}
+.qindao{
+	padding-left:48px;
+}
+.dibiao{
+	height:40px;
+	width:100%;
+	background-color:#454545;
+}
+.dibiao p a{
+	color:#ffffff;
+}
+.dibiao-1{
+	float:left;
+	color:#fff;
+	font-size:12px; 
+	margin-left:410px;
+}
+.dibiao-2{
+	float:left;
+	color:#fff;
+	font-size:12px; 
+	margin-left:120px;
+}
+.dibioa-2 a{
+	color:#ffffff;
+}
+.dffdf{
+	position:fixed;
+	right:220px;
+	top:390px;
+}
